@@ -1,3 +1,4 @@
+**Tiếng Việt** | [English](./README.en.md)
 # Phân tích chẩn đoán và dự báo doanh thu TMĐT thời trang (Datathon 2026)
 
 Dự án tham gia cuộc thi **Datathon 2026** (VinUniversity) của nhóm **Bánh Gà Phô Mai**.  
